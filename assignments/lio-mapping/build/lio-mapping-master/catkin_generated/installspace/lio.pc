@@ -1,8 +1,0 @@
-prefix=/workspace/assignments/lio-mapping/install
-
-Name: lio
-Description: Description of lio
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
