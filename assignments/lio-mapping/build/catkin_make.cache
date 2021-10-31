@@ -1,0 +1,2 @@
+lio-mapping-master
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/workspace/assignments/lio-mapping/devel -DCMAKE_INSTALL_PREFIX=/workspace/assignments/lio-mapping/install -G Unix Makefiles
